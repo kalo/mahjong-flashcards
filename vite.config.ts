@@ -12,6 +12,14 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-    VitePWA({ registerType: 'autoUpdate' }),
+    VitePWA({
+      registerType: 'autoUpdate',
+      manifest: {
+        name: "Mahjong Tile Flashcards",
+        short_name: "Tiles",
+        description: "An app for learning mahjong tiles",
+        display: "standalone",
+      }
+    }),
   ],
 })
