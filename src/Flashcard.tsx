@@ -37,7 +37,7 @@ export const Flashcard = forwardRef<FlashcardRef, React.HTMLAttributes<HTMLDivEl
 				initial={{ opacity: 0, x: 20 }}
 				animate={{ opacity: 1, x: 0 }}
 				transition={{ duration: 0.3 }}
-				className="text-7xl font-semibold font-serif aspect-[9/12] w-36 border-4 border-gray-500 rounded-xl flex flex-col justify-center gap-y-2 text-center bg-slate-50 dark:bg-gray-300 text-gray-900"
+				className="text-7xl font-bold font-tiles aspect-[9/12] w-36 border-4 border-gray-500 rounded-xl flex flex-col justify-center gap-y-2 text-center bg-slate-50 dark:bg-gray-300 text-gray-900"
 			>
 				{cards[item].question}
 			</motion.div>
@@ -64,7 +64,7 @@ export const Flashcard = forwardRef<FlashcardRef, React.HTMLAttributes<HTMLDivEl
 				</motion.div>
 			)}
 
-			<div className="absolute bottom-6 text-slate-700 dark:text-slate-400 font-extralight tracking-wide text-xs lg:text-2xl pointer-events-none">
+			<div className="absolute bottom-6 text-slate-700 dark:text-slate-400 font-extralight tracking-wide text-sm lg:text-2xl pointer-events-none">
 				{showAnswer ? (
 					<>Tap for next tile</>
 				) : (
