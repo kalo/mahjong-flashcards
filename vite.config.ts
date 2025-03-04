@@ -19,6 +19,7 @@ export default defineConfig({
         short_name: "Tiles",
         description: "An app for learning mahjong tiles",
         display: "standalone",
+        start_url: "/?v=342025",
       }
     }),
   ],
