@@ -1,0 +1,11 @@
+{
+	"name": "Mahjong Tile Quiz",
+	"image": "node:18",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"bradlc.vscode-tailwindcss"
+			]
+		}
+	}
+}
