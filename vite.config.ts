@@ -19,7 +19,7 @@ export default defineConfig({
         short_name: "Tiles",
         description: "An app for learning mahjong tiles",
         display: "standalone",
-        start_url: "/?v=342025",
+        start_url: "/mahjong-flashcards/?v=342025",
       }
     }),
   ],
