@@ -12,10 +12,6 @@
     user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
   }
 
-  @theme {
-    --font-tiles: "Noto Serif", -apple-system-ui-serif, ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-  }
-
   html,
   body,
   main,
