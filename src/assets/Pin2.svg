@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-miterlimit: 10;
+        stroke-width: 9.4px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-width: 12.6px;
+      }
+
+      .cls-2, .cls-4, .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-5 {
+        fill: #000037;
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke: #000;
+        stroke-width: 13.2px;
+      }
+
+      .cls-3 {
+        stroke-width: 9.4px;
+      }
+    </style>
+  </defs>
+  <g id="svg2" inkscape:export-xdpi="180" inkscape:version="0.91 r13725">
+    <circle id="path15137" class="cls-4" cx="150" cy="98.6" r="82.4"/>
+    <circle id="path15137-2" class="cls-5" cx="150" cy="98.9" r="67.3"/>
+    <path id="circle15184" class="cls-2" d="M116.8,107.4c-5.3,3.7-13.2,3.3-18-.9s-4.8-10.6,0-14.8c4.8-4.2,12.7-4.5,18-.9" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <path id="circle15184-2" class="cls-2" d="M140.5,132c.5,6.5-3.8,13.1-9.8,15.2-6,2.1-11.6-1.2-12.8-7.4-1.2-6.2,2.4-13.3,8.3-16" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <path id="circle15184-3" class="cls-2" d="M172.8,123.4c5.8,2.8,9.5,9.8,8.3,16s-6.8,9.5-12.8,7.4-10.3-8.7-9.8-15.2" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <path id="circle15184-4" class="cls-2" d="M181.5,91.2c5.3-3.7,13.2-3.3,18,.9s4.8,10.6,0,14.8c-4.8,4.2-12.7,4.5-18,.9" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <path id="circle15184-5" class="cls-2" d="M157.9,67.5c-.5-6.5,3.8-13.1,9.8-15.2s11.6,1.2,12.8,7.4-2.4,13.3-8.3,16" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <path id="circle15184-6" class="cls-2" d="M125.6,76.1c-5.8-2.8-9.5-9.8-8.3-16s6.8-9.5,12.8-7.4c6,2.1,10.3,8.7,9.8,15.2" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <circle id="path15154-5" class="cls-3" cx="149.9" cy="98.8" r="13.9"/>
+    <circle id="circle7559" class="cls-4" cx="150" cy="301.1" r="82.4"/>
+    <circle id="circle7561" class="cls-5" cx="150" cy="301.4" r="67.3"/>
+    <path id="path7565" class="cls-2" d="M116.8,309.9c-5.3,3.7-13.2,3.3-18-.9s-4.8-10.6,0-14.8c4.8-4.2,12.7-4.5,18-.9" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <path id="circle15184-7" class="cls-2" d="M140.5,334.5c.5,6.5-3.8,13.1-9.8,15.2s-11.6-1.2-12.8-7.4c-1.2-6.2,2.4-13.3,8.3-16" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <path id="circle15184-8" class="cls-2" d="M172.8,325.9c5.8,2.8,9.5,9.8,8.3,16s-6.8,9.5-12.8,7.4-10.3-8.7-9.8-15.2" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <path id="circle15184-9" class="cls-2" d="M181.5,293.7c5.3-3.7,13.2-3.3,18,.9s4.8,10.6,0,14.8c-4.8,4.2-12.7,4.5-18,.9" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <path id="circle15184-10" class="cls-2" d="M157.9,270c-.5-6.5,3.8-13.1,9.8-15.2s11.6,1.2,12.8,7.4-2.4,13.3-8.3,16" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <path id="circle15184-11" class="cls-2" d="M125.6,278.6c-5.8-2.8-9.5-9.8-8.3-16s6.8-9.5,12.8-7.4c6,2.1,10.3,8.7,9.8,15.2" sodipodi:cx="-198.69411" sodipodi:cy="-199.69447" sodipodi:end="5.4105207" sodipodi:open="true" sodipodi:rx="163.9187" sodipodi:ry="163.9187" sodipodi:start="0.87266463" sodipodi:type="arc"/>
+    <circle id="circle7577" class="cls-1" cx="149.9" cy="301.3" r="13.9"/>
+  </g>
+</svg>
